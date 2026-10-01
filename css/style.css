@@ -1,0 +1,9 @@
+header {
+    background: url(../img/bg1.jpg) no-repeat center;
+    background-size: cover;
+    height: 80vh;
+}
+
+.touch-home {
+    background-image: url(../img/bg2.png), url(../img/bg3.png);
+}
